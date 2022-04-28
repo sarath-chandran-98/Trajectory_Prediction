@@ -6,5 +6,6 @@ the trajectory is predicted using kalman filters.
 and the rsults are plotted
 
 
+1500+ images are collected and add augmentainons and 3000+ images are trained using yolov5s model
 
-/n 1500+ images are collected and add augmentainons and 3000+ images are trained using yolov5s model
+augmentaions are done by roboflow, annotations by using LabelImg
